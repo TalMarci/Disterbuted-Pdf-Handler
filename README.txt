@@ -1,4 +1,4 @@
-A distributed pdf handler system/ Tal Marciano and Eitan Tshernichovsky 
+A distributed pdf handler system implemented by Tal Marciano and Eitan Tshernichovsky.
 
 The system receives as an input a list of URLs of PDFs files and a specified task for each of them.
 The app connects to Aws services, using s3 buckets, simple queue service, and EC2 instances.
